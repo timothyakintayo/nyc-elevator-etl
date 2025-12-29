@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  elevator-etl:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: nyc-elevator-pipeline
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./insights:/app/insights
+    environment:
+      - PYTHONUNBUFFERED=1
