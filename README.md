@@ -101,8 +101,8 @@ After running the pipeline, you'll find:
 
 - **`data/clean_elevator_2024.csv`** — Cleaned dataset
 - **`data/clean_elevator_2024.parquet`** — Parquet format for analytics
-- **`manhattan_elevator_heatmap.png`** — Geospatial heatmap visualization
-- **`complaint_analysis_by_year.csv`** — Yearly trend analysis
+- **`manhattan_elevator_heatmap.png`** — Geospatial heatmap visualization and map output to locate the head quarter
+- **`complaint_analysis_by_year.csv`** — Yearly trend analysis and visualization of top ten complaints
 
 ---
 
