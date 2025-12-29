@@ -18,6 +18,8 @@ Key Questions
 - What are the other highly reported service requests for expansion opportunities for the business?
 - What is a suitable place/location for the headquarter (HQ)?
 
+Answers to this business questions are provided in the analytics folder in this repository.
+
 ---
 
 ## Tech Stack
@@ -117,7 +119,7 @@ The analysis shows a hotspot at Upper Manhattan/Bronx border with 57 complaints 
 ![NYC Elevator Hotspot](docs/manhattan_elevator_heatmap.png) 
 
 Yearly Trend Analysis:
-An analysis of the trend of complaint across various categories led to the recognition of the top 10 complaint types between the year 2010 to year 2023. This is to present business with alternative service requestopportunities that can be explored or combined with elevator service. The analysis revealed the huge potential that lies in creating an HVAC service in the area due to the high
+An analysis of the trend of complaint across various categories led to the recognition of the top 10 complaint types between the year 2010 to year 2023. This is to present the business with alternative service request opportunities that can be explored or combined with elevator service. The analysis revealed the huge potential that lies in creating an HVAC service in the area due to the high
 heat/hot water complaints. This is presented in the line chart ![Top 10 Complaint Types](docs/complaint_trends_top10.png) 
 
 Full information about this insight is documented in:
