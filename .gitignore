@@ -9,6 +9,7 @@ data/
 # DuckDB files
 *.db
 *.duckdb
+duckdb.exe
 
 # Generated plots & images
 *.png
@@ -19,3 +20,4 @@ __pycache__/
 
 # OS files
 .DS_Store
+
