@@ -110,5 +110,4 @@ After running the pipeline, you'll find:
 
 Business insights are documented in:
 
-- **`insights/complaint_trends.md`** — Temporal trend analysis
-- **`insights/elevator_complaint_insights.md`** — Strategic recommendations for stakeholders
+- **`insights/complaint_trends.md`** — Complaint rend analysis and strategic recommendations for stakeholders
