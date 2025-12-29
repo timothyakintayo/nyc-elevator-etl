@@ -61,6 +61,8 @@ nyc-elevator-etl/
 │
 ├── docker/
 │   └── Dockerfile
+├── docker-compose.yml
+├── .dockerignore
 │
 ├── data/                # ignored by git
 ├── .env                 # ignored by git
