@@ -23,4 +23,4 @@ COPY sql/ ./sql/
 RUN mkdir -p data insights
 
 # Default command: run your ETL
-CMD ["python", "pipeline/etl.py"]
+CMD ["python", "pipeline/elt.py"]

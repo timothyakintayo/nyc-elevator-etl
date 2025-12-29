@@ -1,6 +1,6 @@
-# NYC Elevator ETL Pipeline and Complaint Analysis
+# NYC Elevator ELT Pipeline and Complaint Analysis
 
-This project analyzes elevator complaints across New York City using the official NYC Open Data API. It includes a fully reproducible ETL pipeline, data cleaning, and geospatial analytics.
+This project analyzes elevator complaints across New York City using the official NYC Open Data API. It includes a fully reproducible ELT pipeline, data cleaning, and geospatial analytics.
 
 # Business Problem
 ## Business Context
