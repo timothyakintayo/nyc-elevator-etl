@@ -53,6 +53,7 @@ NYC Open Data API
 → DuckDB (analytics tables)
 → SQL analysis
 → Visualizations & geospatial insights
+
 ![Pipeline architecture](docs/elt_pipeline_diagram.drawio.png) 
 
 ---
