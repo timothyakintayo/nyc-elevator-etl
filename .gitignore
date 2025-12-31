@@ -11,8 +11,9 @@ data/
 *.duckdb
 duckdb.exe
 
-# Generated plots & images
-*.png
+# Allow documentation assets
+!docs/*.png
+!docs/*.jpg
 
 # Python cache
 __pycache__/
