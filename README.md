@@ -7,7 +7,7 @@ This project implements a reproducible ELT pipeline that ingests municipal servi
 Although demonstrated using NYC elevator complaints, the pipeline is city-agnostic and can be reused for other municipal open-data platforms with minimal configuration changes.
 
 ---
-# Business Problem
+
 ## Business Context
 Building maintenance companies in NYC need to identify high-density complaint areas to optimize service coverage and reduce response times. This analysis provides data-driven insights for strategic placement of repair hubs.
 
